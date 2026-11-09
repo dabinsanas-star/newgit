@@ -4,4 +4,5 @@ def soustraction a,b :
     return(a-b)
 def multiplication a,b :
     return(a*b)
-print("Hello world")
+def division a,b :
+    return(a/b)
